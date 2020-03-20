@@ -44,6 +44,8 @@ namespace ConsoleApp2
             goat.Habit = "地上";
             goat.Eat();
             goat.Sleep();
+
+            Console.WriteLine("gsfdgsfd");
             Console.ReadKey();
         }
     }
