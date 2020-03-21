@@ -46,6 +46,7 @@ namespace ConsoleApp2
             goat.Sleep();
 
             Console.WriteLine("gsfdgsfd");
+            Console.WriteLine("工时费大概是大法官");
             Console.ReadKey();
         }
     }
